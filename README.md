@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Thanh Kieu you can call me 'Keva'
+- 👋 Hi, I’m Thanh Kieu, you can call me 'Keva'
 - 👀 I’m interested in frontend 
 - 🌱 I’m currently learning reactjs,...
 - 📫 How to reach me 
